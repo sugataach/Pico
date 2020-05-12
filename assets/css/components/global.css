@@ -1,6 +1,6 @@
 /* Reset
 /* ---------------------------------------------------------- */
-@import url('https://rsms.me/inter/inter.css');
+@import url(https://fonts.googleapis.com/css?family=Inter);
 @supports (font-variation-settings: normal) {
   html { font-family: 'Inter var', sans-serif; }
 }
