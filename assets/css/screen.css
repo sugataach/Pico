@@ -177,6 +177,14 @@ html,
     opacity: 0.5;
 }
 
+.gh-header-menu a {
+    color: rgba(19,19,19,.91);
+    text-decoration: none;
+}
+.gh-header-menu a:hover {
+    text-decoration: underline;
+}
+
 @media (max-width: 700px) {
     .gh-card-link {
         flex-direction: column;
