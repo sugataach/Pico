@@ -120,6 +120,12 @@
     margin-top: 6vmin;
 }
 
+.gh-content a {
+    color: #272f33;
+    text-decoration: none;
+    box-shadow: 0 1px 0 #fff, 0 2px 0 #3eb0ef;
+}
+
 .gh-content hr + * {
     margin-top: 6vmin !important;
 }
